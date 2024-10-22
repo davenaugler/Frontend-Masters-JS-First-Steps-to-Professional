@@ -1,1 +1,5 @@
-# Frontend-Masters-JS-First-Steps-to-Professional
+# Frontend Masters 
+
+## JavaScript: From First Steps to Professional
+- Tic-Tac-Toe
+
